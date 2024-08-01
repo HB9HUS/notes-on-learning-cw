@@ -8,11 +8,11 @@ Most stuff I wont write in too much detail but link to the places where I learne
 
 ### What is there to learn
 When starting to learn CW, you are probably not aware, that there are many different things that you can learn. These are:
-- Receiving CW:
-Receiving CW is the hard part of being a CW operator. Starting with the letters, you will continue to learn longer words and sentences.
-- Sending CW:
+- Receiving CW\
+Receiving CW is the hard part of being a CW operator. Starting with the letters, you will continue to learn longer words and sentences. The conditions of the signals on the air with fading and interference add to the difficulty.
+- Sending CW\
 Sending is much easier than receiving. Still you need to practice it to get your fingers to make the right movements. You need to decide on a key you want to use.
-- Procedures:
+- Procedures\
 Being a CW operator includes not only sending and receiving the letters and words in CW but other things such as abbreviations, Q-Codes and different QSO formats.
 
 I will try to describe the different points in the following chapters.
@@ -29,11 +29,13 @@ But have a look at section "Receiving speed" below, there is not "one" speed you
 ## Receiving CW
 Receiving or copying CW is not hard, but needs a lot of pracitce. The recommended things are:
 - Have FUN! change the practice if it gets boring
+- Set yourself goals (and write them down)
 - practice daily at least 10-30min
-- stopp when you get tired
+- stop when you get tired
 - multiple short sessions is better than one long
 - don't listen to slow CW, space the letters out if necessary (farnsworth timing)
 - learn by sound, don't use any form of memnonic (e.g. charts)
+- get on the air as fast as possible, first for listening, later for real QSOs
 
 Some very good information is to be found on the [advice page](https://morsecode.ninja/advice/) of morse code ninja.
 
@@ -147,6 +149,11 @@ To practice this, you can take any text or written down QSO and send it.
 When sending from your head, you need to spell out the word you want to send. This can take away brain power for the sending.
 
 Practice this by sending examples QSOs from your head.
+
+### Correcting errors
+If you make an error during your sending you can tell the other station so by sending a series of dits. The recommended way is eight fast dits (like the number 5 with three more dits). It is also often heard to send about 3 dits with more like three letter E.
+
+If you are in the middle of a word, it is also possible to just make a pause and start sending again. The other station will hear the word repetion and understand your correction.
 
 ### Common errors and mishaps
 As with receiving, errors happen during sending: 
@@ -378,7 +385,14 @@ Some programs to look at are:
 - https://www.jotajoti.info/jota
 - https://illw.net/
 
-# Miscellaneous
+## Getting on the air
+
+## Key fright
+It is normal for many people to have "key fright". This is the situation, that you are afraid to start sending CW. This is very normal and a hurdle that can be overcome.
+
+You can setup a scheduled QSO with a friend for your first steps. This drastically reduces the hurdle.
+
+You can set yourself a goal, e.g. I will be on the air at the end of march and write it down. Then you work on the skills you think you need for this.
 
 ## Finding stations at your speed
 There are different options to find a station at your speed.
@@ -390,6 +404,27 @@ You can use the [reverse beacon network](https://www.reversebeacon.net/main.php)
 There are some weekly contest for certain speeds. These are:
 - [K1USN SST](http://www.k1usn.com/sst.html): Slow Speed Test, limited to max 20wpm
 - [MST](https://internationalcwcouncil.org/mst-contest/): Medium Speed Test 20-25wpm
+
+## (Somewhat) unusual situations
+Some things can happen when you are on the air that digress from the QSO template you want to adhere to.
+
+### A very weak station answers your CQ
+When a station answers your CQ call
+
+You can ask for a repetion of the callsign with "AGN" or a ?
+
+If you can not decipher the calling station, you can tell the station and call CQ again: "SRI TOO WEAK 73 CQ CQ ..."
+
+### A station disappears
+It can happen, that you start a QSO with a station and during the QSO the signal fades so that you no longer hear the station or the station stops sending for another reason.
+
+In that case you can wait a moment for the station to hopefully finish it's message. Then you can try to call it again. If this does not succeed, say goodby.
+
+    Y: A1BCD DE HB9HUS K
+    Y: A1BCD DE HB9HUS K
+    Y: A1BCD DE HB9HUS 73 73 TU A1BCD DE HB9HUS SK
+
+# Miscellaneous
 
 ## Places to chat
 There are many online places, where you can discuss CW (and other ham subjects). Some are:
