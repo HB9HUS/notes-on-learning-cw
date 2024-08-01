@@ -332,6 +332,13 @@ Some sites are:
 - https://www.contestcalendar.com/
 - https://www.cqcontest.eu/
 
+### Rag chew QSO
+When you get into rag chewing, you probably outperformed this simple document.
+
+In principle during tag chewing the normal QSO is extended even more with additional information.
+
+Have a look [here](https://morsecode.ninja/files/Sample-Rag-Chew-QSO-v10.pdf)
+
 ### Special programs
 There are some other types of QSOs you might encounter online. Some examples are long running award programs such as "summits on the air" (SOTA) or "parks on the air" (POTA).
 
@@ -361,6 +368,7 @@ There are many online places, where you can discuss CW (and other ham subjects).
 - [lcwo forum](https://lcwo.net/forum): Forum of the LCWO website
 - [/r/morse/](https://www.reddit.com/r/morse/): not very active
 - [/r/amateurradio](https://www.reddit.com/r/amateurradio/): general amateur discussions, very active
+- many amateur radio [Discord Servers](https://disboard.org/de/servers/tag/ham-radio)
 
 ## Stuff people don't like
 You might notice things that people say, they don't like. Be it on their QRZ.com page, on reddit or in forums. I list them here just for you to be aware of them.
