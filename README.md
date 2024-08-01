@@ -83,8 +83,9 @@ This can easily be done with a [web sdr](http://websdr.org/).
 ### Getting fast
 As I am not fast yet, I can not really comment on this. Have a look at this article on morse code ninja: https://morsecode.ninja/advice/#LearningApproachToQRQ
 
-Tools:
+Tools and links:
 - https://www.dxatlas.com/MorseRunner/
+- http://www.highspeedclub.org/
 
 ### Receiving speed
 CW is measured in words per minute (WPM) or characters per minute (CPM). CPM is 5 times WPM.
