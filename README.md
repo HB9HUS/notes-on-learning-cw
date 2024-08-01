@@ -161,13 +161,17 @@ This is my list of common abbreviations:
 - AGN: Again
 - ANT: Antenna
 - CFM: Confirm
+- CUAGN: see you again, also CU AGN
 - CQ: Calling
 - DE: From
 - DR: Dear
 - DX: Distance
+- EFHW: end fed half wave antenna
 - ES: And
+- FB: Fine Business -> good
 - FER: for
 - GM/GA/GE: Good Morning/Afternoon/Evening
+- HPE: hope
 - HR: here
 - HW: How copy?
 - K: over
@@ -256,6 +260,42 @@ The full list is:
 - QSO formats
 
 ### A "regular" QSO
+A normal QSO follows a somewhat fixed structure. This structure greatly helps you understanding the incoming CW as you know what to anticipate.
+
+The high level structure is:
+    S: Calling
+    Y: Callsign
+    S: Greeting, Thanks, Report (RST), Name, QTH
+    Y: Thanks for report, Report (RST), Name, QTH
+    S: (optional) equipment, power, antenna, weather
+    Y: (optional) equipment, power, antenna, weather
+    S: Farewell
+    Y: Farewell
+
+This could look like this:
+
+    S: CQ CQ CQ de A1BCD A1BCD PSE K
+    Y: A1BCD DE HB9HUS K
+    S: HB9HUS DE A1BCD GM ES TNX FER CALL = UR RST 599 5NN = OP IS JOHN JOHN = QTH PARIS PARIS, HW? HB9HUS DE A1BCD K
+    Y: R R A1BCD DE HB9HUS TNX FER RPRT DR JOHN = UR RST 599 5NN = OP IS STEFAN STEFAN = QTH NR BERN NR BERN, HW? A1BCD DE HB9HUS K
+    S: HB9HUS DE A1BCD RIG FTDX10, PWR 100W = ANT DIPOLE = WX SUNNY ES TEMP 10C = HW? BK
+    Y: BK RIG HOMEBREW, PWR 5W = ANT EFHW = WX COLD ES TEMP MINUS 1C BK
+    S: BK TKS FER FB QSO ES HPE CUAGN = 73 73 ES TU HB9HUS DE A1BCD SK
+    Y: A1BCD DE HB9HUS TNX FER NICE QSO ES 73 A1BCD DE HB9HUS SK TU E E
+    S: E E
+
+Some comments about this example:
+- Instead of K, KN can be used as well. This means over to exactly the other station. In principle another station could answer after the K, I've never seent this happen though.
+- note how sometimes the full A1BCD DE HB9HUS is used, sometimes just the prosign BK. At the start and the end of the QSO always use the full callsigns.
+- = is the short form for the prosign B̅T̅
+- Important information such as Name and QTH is repeated
+- SK shows the end of the QSO
+
+A cheatsheet can be found here: http://www.cw4u.org/download/CW4U_poster_ENG.pdf
+
+Other templates/examples can be found here:
+- http://lidscw.org/resources/cq-qso-template
+- https://www.electronics-notes.com/articles/ham_radio/morse_code/cw-qso-morse-contact.php
 
 
 ### QRQ 599 stations
@@ -263,11 +303,11 @@ Some stations prefer a very short and very fast QSO style. This may be, because 
 
 A qso could look like this:
 
-S: CQ A1BCD CQ A1BCD
-Y: HB9HUS
-S: HB9HUS 599
-Y: R 599 TU
-S: TU CQ A1BCD
+    S: CQ A1BCD CQ A1BCD
+    Y: HB9HUS
+    S: HB9HUS 599
+    Y: R 599 TU
+    S: TU CQ A1BCD
 
 Even when your speed is way below the speed of these stations, you can work them. As you are not able to send this fast, you can store your callsign and "R 599 TU" in a memory of your transceiver. You can then go on the frequency of the station and decode, letter by letter, their callsign. Then you can send your callsign from the memory of your transceiver. You should recognize your callsign and can then confirm it.
 
@@ -279,10 +319,10 @@ A contest CQ call can usually be identified by the abbreviation "TEST" in the ca
 The exchange includes some information, often just a sequential number, sometimes some other information such as the CQ zone you operate from or more complex information.
 
 A qso cood look like this:
-S: CQ TEST A1BCD
-Y: HB9HUS
-S: HB9HUS 599 007
-Y: 599 127
+    S: CQ TEST A1BCD
+    Y: HB9HUS
+    S: HB9HUS 599 007
+    Y: 599 127
 
 Where 007 and 127 are the numbers of QSOs the station has done in the contest.
 
@@ -299,12 +339,12 @@ Most QSOs in these programs are similarly short than contest programs, mostly a 
 
 Example:
 
-S: CQ SOTA de A1BCD/P K
-Y: HB9HUS
-S: HB9HUS GM ES TNX FER CALL UR 599 599 K
-Y: GM UR 559 73 ES TU
-S: TU ..
-Y: ..
+    S: CQ SOTA de A1BCD/P K
+    Y: HB9HUS
+    S: HB9HUS GM ES TNX FER CALL UR 599 599 K
+    Y: GM UR 559 73 ES TU
+    S: TU ..
+    Y: ..
 
 Some programs to look at are:
 - https://parksontheair.com
