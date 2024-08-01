@@ -163,6 +163,13 @@ Two resources are:
 
 In my experience reality can look different than these documents, but many of the things in there are sound and make sense.
 
+Some points I would like to mention are:
+- Respond with the speed of the othe station if you can (slower is always ok)
+- Respect if someone sends "QRS" (send slower)
+- Only answer stations you can properly hear
+- Be polite and ignore inpolite behaviour
+- before sending, listen and ask QRL?
+
 ### Abbreviations
 CW is a slow form of communication. To increase the density of information, we use many abbreviations and the so called Q-Codes (see next section). When you first have a look at lists with these, you can easily feel overwhelmed by their length. But fear not in practice, only few of them are frequently used. You just have to learn the most frequent ones and can postpone the rest to later.
 
@@ -267,6 +274,7 @@ The full list is:
 A normal QSO follows a somewhat fixed structure. This structure greatly helps you understanding the incoming CW as you know what to anticipate.
 
 The high level structure is:
+    S: Is frequency in use?
     S: Calling
     Y: Callsign
     S: Greeting, Thanks, Report (RST), Name, QTH
@@ -278,6 +286,7 @@ The high level structure is:
 
 This could look like this:
 
+    S: QRL?
     S: CQ CQ CQ de A1BCD A1BCD PSE K
     Y: A1BCD DE HB9HUS K
     S: HB9HUS DE A1BCD GM ES TNX FER CALL = UR RST 599 5NN = OP IS JOHN JOHN = QTH PARIS PARIS, HW? HB9HUS DE A1BCD K
