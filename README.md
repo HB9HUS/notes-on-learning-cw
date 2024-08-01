@@ -1,10 +1,12 @@
 # HB9HUS - Notes on learning CW
 ## Introduction
-This document contains my findings that I had during my journey for learning CW. As I write this while I am learning this, it will certainly contain errors. If so, write me or start a discussion with a github issue.
+This document contains my findings that I had during my journey for learning CW by myself. It will certainly contain errors. If so, write me or start a discussion with a github issue.
 
-I will give recommendations about technologies you can use during the process. Most stuff I wont write in too much detail but link to the places where I learned about it. I try to give simple recommendations where there is much choice (almost everywhere).
+There are many other ways you can learn be it different ways to teach it your self or by taking courses. For example, I've only heard good things about the CW courses of the [long island cw club](https://longislandcwclub.org/).
 
-## What is there to learn
+Most stuff I wont write in too much detail but link to the places where I learned about it. I try to give simple recommendations where there is much choice (almost everywhere).
+
+### What is there to learn
 When starting to learn CW, you are probably not aware, that there are many different things that you can learn. These are:
 - Receiving CW
 Receiving CW is the hard part of being a CW operator. Starting with the letters
@@ -15,6 +17,16 @@ Being a CW operator includes not only sending and receiving the letters and word
 
 I will try to describe the different points in the following chapters.
 
+### How long will it take
+This is a very individual question and depends on many factors.
+
+- You should be able to learn the letters within 2-3 months.
+- Soon after that you can go on the air and do a first very slow QSO
+- It will probably take a year to be proficient at 15wpm
+- It usually seems to take about 2 years to get to 25wpm
+
+But have a look at section "Receiving speed" below, there is not "one" speed you are at.
+
 ## Receiving CW
 - letters
 - hard copy or head copy
@@ -24,7 +36,8 @@ I will try to describe the different points in the following chapters.
 - instant word recognition (much later)
 - abbreviations and q-codes
 
--> Advice from morse code ninja
+Some very good information is to be found on the [advice page](https://morsecode.ninja/advice/) of morse code ninja.
+
 ### The letters
 Learning the letters is the obvious starting point on your journey to learn CW. There are many texts that describe this process in detail.
 
@@ -46,13 +59,36 @@ For a more detailed description of this have a look at [advice page](https://mor
 ### Getting faster
 Once you know your letters, you probably want to get faster, get rid of the farnsworth timing and get up to a speed which can be used on the air.
 
-https://morsecode.ninja/advice/#SoYouWantToGoFaster
+This is done by listening to different forms of texts in your tool of choice. For me this tools are most of the time the videos of [morse code ninja](https://morsecode.ninja/practice/index.html).
+
+Start with more trainings on single letters. Then try some simple two letter words. Increase the complexity of the words, either by taking longer words or more complex things such as callsigns. Once that works, go to combinations of words.
+
+Once you are confident with these excercises, you can increase the speed. It can also make sense, to practice simple things (e.g. three letter combinations) at a higher speed and more difficult things (e.g. top 100 words) at a slightly slower speed.
+
+Don't forget to go online as well early on to train your ear to real operators. It can already be fun to recognize single letters in the stream of a qso.
+
+This can easily be done with a [web sdr](http://websdr.org/).
 
 ### Getting fast
 As I am not fast yet, I can not really comment on this. Have a look at this article on morse code ninja: https://morsecode.ninja/advice/#LearningApproachToQRQ
 
 Tools:
 - https://www.dxatlas.com/MorseRunner/
+
+### Receiving speed
+CW is measured in words per minute (WPM) or characters per minute (CPM). CPM is 5 times WPM.
+
+What speed you can receive depends on many different factors:
+- perfect timing or human operator that makes timing errors
+- only cw sounds or background noise and fading
+- understanding the structure of the text that you receive (e.g. standard qso helps a lot)
+- your daily form
+- number of repetitions (e.g. you can copy a callsign of a contest station listening to it multiple times at a very high speed)
+
+This means that, even if you can copy multiple words at 22 wpm with a morse training tool, does not mean that you can do so on the air.
+
+More details on speed:
+- https://morsecode.world/international/timing.html
 
 ## Sending CW
 Sending is much easier than receiving. 
