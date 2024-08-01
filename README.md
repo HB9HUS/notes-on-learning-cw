@@ -68,13 +68,13 @@ This is done by listening to different forms of texts in your tool of choice. Fo
 
 There are many different dimensions you can improve on. I will explain some of them.
 
-QSO elements and standard QSO structure are very important to learn after you know the letters. These will get you on the air. As soon as you master them somewhat you can follow a standard QSO. Train the [elements](https://www.youtube.com/watch?v=_hbx_m3RLj8), and QSO [phrases](https://www.youtube.com/watch?v=hreSmzw6u5Y).
+QSO elements and standard QSO structure are very important to learn after you know the letters. These will get you on the air. As soon as you master them somewhat you can follow a standard QSO. Train the [elements](https://www.youtube.com/watch?v=_hbx_m3RLj8), and QSO [phrases](https://www.youtube.com/watch?v=hreSmzw6u5Y). Another nice tool is this [QSO trainer](https://morsecode.world/international/trainer/qso.html) on morsecodeworld.
 
 Instant character recognition is the skill to understand the cw-character without counting or thinking about the dits and dahs. This can be trained with sequences of characters such as [this](https://www.youtube.com/watch?v=fLb6BOJwRMc) or [this](https://www.youtube.com/watch?v=Pdh0wUAf07k&feature=youtu.be). Once you master these, increase the length of the sequence and later the speed.
 
 The longer words get, the harder it gets to remember the characters that came earlier. To train this skill, start with short words and increase the length continuously or learn common words. Example videos are [this](https://www.youtube.com/watch?v=npofTfIgSHA&feature=youtu.be) and [this](https://www.youtube.com/watch?v=npofTfIgSHA&feature=youtu.be). Here as well, increase the length or the number of words, later the speed.
 
-The next dimension is sentence length. As you need to train to remember characters sent, you need to train words sent. To train this, you can practice [word sets](https://www.youtube.com/watch?v=zvXRN9TcT14) and [sentences](https://www.youtube.com/watch?v=8zu7oBQ_gT4&feature=youtu.be). Within these you can increase the length or the number of words. As usual, increase the speed later.
+The next dimension is sentence length. As you need to train to remember characters sent, you need to train words sent. To train this, you can practice [word sets](https://www.youtube.com/watch?v=zvXRN9TcT14) and [sentences](https://www.youtube.com/watch?v=8zu7oBQ_gT4&feature=youtu.be) or [headlines](https://morsecode.world/international/trainer/headlines.html). Within these you can increase the length or the number of words. As usual, increase the speed later.
 
 It can make sense, to practice simple things (e.g. three letter combinations) at a higher speed and more difficult things (e.g. top 100 words) at a slightly slower speed.
 
