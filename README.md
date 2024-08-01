@@ -371,6 +371,17 @@ Some programs to look at are:
 
 # Miscellaneous
 
+## Finding stations at your speed
+There are different options to find a station at your speed.
+
+You can just call CQ yourself at a speed you are comfortable with. A good operator who will answer you should adapt his speed to yours. If he does not do that you can still send "PSE QRS".
+
+You can use the [reverse beacon network](https://www.reversebeacon.net/main.php) to find stations that send CQ with a certain speed (limit the min and max CW speed) and answer their calls.
+
+There are some weekly contest for certain speeds. These are:
+- [K1USN SST](http://www.k1usn.com/sst.html): Slow Speed Test, limited to max 20wpm
+- [MST](https://internationalcwcouncil.org/mst-contest/): Medium Speed Test 20-25wpm
+
 ## Places to chat
 There are many online places, where you can discuss CW (and other ham subjects). Some are:
 - [lcwo forum](https://lcwo.net/forum): Forum of the LCWO website
