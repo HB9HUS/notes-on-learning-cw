@@ -180,14 +180,28 @@ This is my list of common abbreviations:
 - RIG: transceiver
 - RPT/RPRT: report
 - RST: Signal report (see below)
-- 
+- TEMP: temperature
+- TNX/TKS: thanks
+- TU: Thank you, often followed by two dits
+- UR: your
+- W: watt
+- WX: weather
+- 73: best regards
 
 There are many more, but they are heard not so often, see: https://cwops.org/wp-content/uploads/2018/07/CW-Abbreviations.pdf
 
 ### Q-Codes
-Q-Codes are three letter codes starting with the letter Q (as the name implies).
+Q-Codes are three letter codes starting with the letter Q (as the name implies). They can often be used as a question or as a statement. Many of the lists you find online are confusing (at least to me) and it is not clear from the description when and how to use them.
 
-Frequent q-codes
+This is my list of common abbreviations:
+- QRL?: is the frequency busy?
+- QRZ?: who is calling me?
+- QRS: send more slowly, e.g. PSE QRS
+- QSB: Signal is fading (during RST report)
+- QSO: a radio contact
+- QTH: my location is
+
+Many more to be found online such as here https://jota.uniq.com.au/radio/qcode.html
 
 ### Prosigns
 [Prosigns](https://en.wikipedia.org/wiki/Prosigns_for_Morse_code) (procedural signs) are special signals used to mark special points in a message or chommunication.
