@@ -145,6 +145,15 @@ As with receiving, errors happen during sending:
 - If you need to send an unknown word from your head, you can get confused. If, for example, you are in a new QTH, write it down.
 
 ## Procedures
+### Online behaviour
+The standard advice on how to behave online is to listen and learn. This is certainly not bad advice but it helps if you have references.
+
+Two resources are:
+- The [ARRL Operating Ethics](http://www.arrl.org/operating-ethics)
+- The [DX Code of conduct](https://dx-code.com/)
+
+In my experience reality can look different than these documents, but many of the things in there are sound and make sense.
+
 ### Abbreviations
 CW is a slow form of communication. To increase the density of information, we use many abbreviations and the so called Q-Codes (see next section). When you first have a look at lists with these, you can easily feel overwhelmed by their length. But fear not in practice, only few of them are frequently used. You just have to learn the most frequent ones and can postpone the rest to later.
 
