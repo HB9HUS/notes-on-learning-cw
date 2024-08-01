@@ -8,11 +8,11 @@ Most stuff I wont write in too much detail but link to the places where I learne
 
 ### What is there to learn
 When starting to learn CW, you are probably not aware, that there are many different things that you can learn. These are:
-- Receiving CW
+- Receiving CW:
 Receiving CW is the hard part of being a CW operator. Starting with the letters
-- Sending CW
+- Sending CW:
 Sending is much easier than receiving.
-- Procedures
+- Procedures:
 Being a CW operator includes not only sending and receiving the letters and words in CW but many procedural things such as abbreviations or QSO formats.
 
 I will try to describe the different points in the following chapters.
@@ -28,18 +28,18 @@ This is a very individual question and depends on many factors.
 But have a look at section "Receiving speed" below, there is not "one" speed you are at.
 
 ## Receiving CW
-- letters
-- hard copy or head copy
-- getting faster
-- getting fast
-- instant character recognition
-- instant word recognition (much later)
-- abbreviations and q-codes
+Receiving or copying CW is not hard, but needs a lot of pracitce. The recommended things are:
+- Have FUN! change the practice if it gets boring
+- practice daily at least 10-30min
+- stopp when you get tired
+- multiple short sessions is better than one long
+- don't listen to slow CW, space the letters out if necessary (farnsworth timing)
+- learn by sound, don't use any form of memnonic (e.g. charts)
 
 Some very good information is to be found on the [advice page](https://morsecode.ninja/advice/) of morse code ninja.
 
 ### The letters
-Learning the letters is the obvious starting point on your journey to learn CW. There are many texts that describe this process in detail.
+Learning the letters is the obvious starting point on your journey to learn CW. There are many texts that describe this process in detail (e.g. https://www.qsl.net/kb5wck/morse-.html).
 
 There are probably hundreds of tools for learning CW to be found online. Every ham with coding skills seems to have written one.
 
@@ -85,10 +85,16 @@ What speed you can receive depends on many different factors:
 - your daily form
 - number of repetitions (e.g. you can copy a callsign of a contest station listening to it multiple times at a very high speed)
 
-This means that, even if you can copy multiple words at 22 wpm with a morse training tool, does not mean that you can do so on the air.
+This means that, even if you can copy multiple words at 22 wpm with a morse training tool, does not mean that you can do so on the air. After a training session, you will be faster than before, but this will drop down again.
 
 More details on speed:
 - https://morsecode.world/international/timing.html
+
+### Common errors
+Some things seem to happen to different people learning CW
+- confuse symmetrical letters, e.g. K and R
+- Problems with Dits: E, I, S, H can be hard to copy when in sequence
+- Anticipate and stop listening
 
 ## Sending CW
 Sending is much easier than receiving. 
@@ -122,12 +128,39 @@ Practice this by sending examples QSOs from your head.
 ### Abbreviations
 CW is a slow form of communication. To increase the density of information, we use many abbreviations and the so called Q-Codes (see next section). When you first have a look at lists with these, you can easily feel overwhelmed by their length. But fear not in practice, only few of them are frequently used. You just have to learn the most frequent ones and can postpone the rest to later.
 
-Frequent abbreviations
+This is my list of common abbreviations:
+- AGN: Again
+- ANT: Antenna
+- CFM: Confirm
+- CQ: Calling
+- DE: From
+- DR: Dear
+- DX: Distance
+- ES: And
+- FER: for
+- GM/GA/GE: Good Morning/Afternoon/Evening
+- HR: here
+- HW: How copy?
+- K: over
+- NR: Number/Near
+- OM: Old man (operator)
+- OP: Operator
+- PSE: Please
+- PWR: power
+- R: roger/acknowledge
+- RIG: transceiver
+- RPT/RPRT: report
+- RST: Signal report (see below)
+- 
+
+There are many more, but they are heard not so often, see: https://cwops.org/wp-content/uploads/2018/07/CW-Abbreviations.pdf
 
 ### Q-Codes
 Q-Codes are three letter codes starting with the letter Q (as the name implies).
 
 Frequent q-codes
+
+### Prosigns
 
 ### RST system
 The RST system is used for exchanging information on the quality of the signal.
