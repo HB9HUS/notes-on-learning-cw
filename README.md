@@ -230,6 +230,25 @@ Some stations always send 599, especially during contests. This removes the whol
 For more details look at the [wikipedia article](https://en.wikipedia.org/wiki/R-S-T_system)
 
 ### Abbreviated numbers
+Numbers can be abbreviated (called cut numbers) when it is clear from the context that they are numbers. This happens usually during the RST report and in contests. The most most frequent number to cut is 9 which becomes N.
+
+Other common replacements are T, A for 0, 1.
+
+You can train these [here](https://www.youtube.com/watch?v=WzcCy1qGy60&t=0s).
+
+The full list is:
+| Number    | Replacement |
+| -------- | ------- |
+| 0	| T |
+|1	| A |
+|2	| U |
+|3	| V |
+|4	| 4 |
+|5	| E |
+|6	| 6 |
+|7	| B |
+|8	| D |
+|9	| N |
 
 ### QSO-Formats
 - the letters
