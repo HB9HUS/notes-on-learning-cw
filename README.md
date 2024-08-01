@@ -18,8 +18,7 @@ Being a CW operator includes not only sending and receiving the letters and word
 I will try to describe the different points in the following chapters.
 
 ### How long will it take
-This is a very individual question and depends on many factors.
-
+This is a very individual question and depends on many factors. The dominant factor is the time you invest into your practice. Some values I have found online are (dont remember the sources, sorry):
 - You should be able to learn the letters within 2-3 months.
 - Soon after that you can go on the air and do a first very slow QSO
 - It will probably take a year to be proficient at 15wpm
@@ -331,6 +330,10 @@ When you hear a contester online, you can look in some of the contest calendars 
 Some sites are:
 - https://www.contestcalendar.com/
 - https://www.cqcontest.eu/
+
+Some more info on contesting:
+- https://www.morsecode.nl/KH2DContesting.PDF
+- http://www.k1usn.com/Do%27s%20and%20Don%27ts%20and%20More.pdf
 
 ### Rag chew QSO
 When you get into rag chewing, you probably outperformed this simple document.
