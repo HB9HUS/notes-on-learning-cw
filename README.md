@@ -1,8 +1,8 @@
 # HB9HUS - Notes on learning CW
 ## Introduction
-This document contains my findings that I had during my journey for learning CW by myself. It will certainly contain errors. If so, write me or start a discussion with a github issue.
+This document contains my findings that I had during my journey for learning CW by myself. It does not only focus on the pure learning of receiving CW but also tries to give an overview on sending and procedures. It will certainly contain errors. If so, write me or start a discussion with a github issue.
 
-There are many other ways you can learn be it different ways to teach it your self or by taking courses. For example, I've only heard good things about the CW courses of the [long island cw club](https://longislandcwclub.org/).
+There are obviously many different ways you can learn be it different ways to teach it your self or by taking courses. For example, I've only heard good things about the CW courses of the [long island cw club](https://longislandcwclub.org/).
 
 Most stuff I wont write in too much detail but link to the places where I learned about it. I try to give simple recommendations where there is much choice (almost everywhere).
 
@@ -43,7 +43,11 @@ Learning the letters is the obvious starting point on your journey to learn CW. 
 
 There are probably hundreds of tools for learning CW to be found online. Every ham with coding skills seems to have written one.
 
+Letters in CW are sent as a sequence of Dits (short) and Dahs (long) sounds. The focus should be on learning the sounds of the letters and not have some sort of mental crutch to remember them (such as diagrams or mnemonics). If you have to think about a graphical diagram when hearing a sound, you will never get fast.
+
 My simple recommendation is to use [Learn CW Online - LCWO](https://lcwo.net). This webpage is used by many and can give you an immediate start. Unfortunately it is not (at the time of this writing) responsive and not easy to use on mobile. There you can take [Morse Mania](https://www.ecosia.org/search?tt=mzl&q=morse%20mania).
+
+Try to learn with a fast character speed such as 20wpm and slow down the farnsworth timing to a speed you can copy.
 
 ### Hard copy or head copy
 You must decide, whether you want to write down what you hear or just reconstruct the words and sentences in your head.
@@ -61,9 +65,17 @@ Once you know your letters, you probably want to get faster, get rid of the farn
 
 This is done by listening to different forms of texts in your tool of choice. For me this tools are most of the time the videos of [morse code ninja](https://morsecode.ninja/practice/index.html).
 
-Start with more trainings on single letters. Then try some simple two letter words. Increase the complexity of the words, either by taking longer words or more complex things such as callsigns. Once that works, go to combinations of words.
+There are many different dimensions you can improve on. I will explain some of them.
 
-Once you are confident with these excercises, you can increase the speed. It can also make sense, to practice simple things (e.g. three letter combinations) at a higher speed and more difficult things (e.g. top 100 words) at a slightly slower speed.
+QSO elements and standard QSO structure are very important to learn after you know the letters. These will get you on the air. As soon as you master them somewhat you can follow a standard QSO. Train the [elements](https://www.youtube.com/watch?v=_hbx_m3RLj8), and QSO [phrases](https://www.youtube.com/watch?v=hreSmzw6u5Y).
+
+Instant character recognition is the skill to understand the cw-character without counting or thinking about the dits and dahs. This can be trained with sequences of characters such as [this](https://www.youtube.com/watch?v=fLb6BOJwRMc) or [this](https://www.youtube.com/watch?v=Pdh0wUAf07k&feature=youtu.be). Once you master these, increase the length of the sequence and later the speed.
+
+The longer words get, the harder it gets to remember the characters that came earlier. To train this skill, start with short words and increase the length continuously or learn common words. Example videos are [this](https://www.youtube.com/watch?v=npofTfIgSHA&feature=youtu.be) and [this](https://www.youtube.com/watch?v=npofTfIgSHA&feature=youtu.be). Here as well, increase the length or the number of words, later the speed.
+
+The next dimension is sentence length. As you need to train to remember characters sent, you need to train words sent. To train this, you can practice [word sets](https://www.youtube.com/watch?v=zvXRN9TcT14) and [sentences](https://www.youtube.com/watch?v=8zu7oBQ_gT4&feature=youtu.be). Within these you can increase the length or the number of words. As usual, increase the speed later.
+
+It can make sense, to practice simple things (e.g. three letter combinations) at a higher speed and more difficult things (e.g. top 100 words) at a slightly slower speed.
 
 Don't forget to go online as well early on to train your ear to real operators. It can already be fun to recognize single letters in the stream of a qso.
 
