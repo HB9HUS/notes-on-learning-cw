@@ -181,6 +181,17 @@ Q-Codes are three letter codes starting with the letter Q (as the name implies).
 Frequent q-codes
 
 ### Prosigns
+[Prosigns](https://en.wikipedia.org/wiki/Prosigns_for_Morse_code) (procedural signs) are special signals used to mark special points in a message or chommunication.
+
+They are usually written as a combination of letters with an overline. The letters are sent without space between them.
+
+Frequent prosigns are:
+- A̅R̅: out, end of message
+- B̅K̅: break in, hand over to the other station without sending the callsigns again.
+- B̅T̅: break, start a new section in your message (like a small pause)
+- S̅K̅: silent key, sent to signal end of communication
+
+The use of these is best learned by listening how they are used. The (theoretical?) proper use is described in the [arrl operating ethics](http://www.arrl.org/operating-ethics).
 
 ### RST system
 The RST system is used for exchanging information on the quality of the signal.
