@@ -102,11 +102,14 @@ This means that, even if you can copy multiple words at 22 wpm with a morse trai
 More details on speed:
 - https://morsecode.world/international/timing.html
 
-### Common errors
+### Common errors and mishaps
 Some things seem to happen to different people learning CW
 - confuse symmetrical letters, e.g. K and R
 - Problems with Dits: E, I, S, H can be hard to copy when in sequence
-- Anticipate and stop listening
+- Often it happens that after some letters, you anticipate the word and stop listening. Just try to focus on the next letter in that case.
+- The same can happen with words.
+
+Many of the errors disappear with training. If you notice a pattern (e.g. dits causing problems) try to find an excercise to resolve this (such as [this](https://www.youtube.com/watch?v=Pdh0wUAf07k)).
 
 ## Sending CW
 Sending is much easier than receiving. 
@@ -135,6 +138,11 @@ To practice this, you can take any text or written down QSO and send it.
 When sending from your head, you need to spell out the word you want to send. This can take away brain power for the sending.
 
 Practice this by sending examples QSOs from your head.
+
+### Common errors and mishaps
+As with receiving, errors happen during sending: 
+- the fingers suddenly forget how to send. this can be embarrasing as you just can't get any meaningfull cw out for a moment. if this happens, relax, maybe shake your hand and try to send very deliberate and with clear spacing between the letters.
+- If you need to send an unknown word from your head, you can get confused. If, for example, you are in a new QTH, write it down.
 
 ## Procedures
 ### Abbreviations
