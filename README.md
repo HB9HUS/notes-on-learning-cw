@@ -9,11 +9,11 @@ Most stuff I wont write in too much detail but link to the places where I learne
 ### What is there to learn
 When starting to learn CW, you are probably not aware, that there are many different things that you can learn. These are:
 - Receiving CW:
-Receiving CW is the hard part of being a CW operator. Starting with the letters
+Receiving CW is the hard part of being a CW operator. Starting with the letters, you will continue to learn longer words and sentences.
 - Sending CW:
-Sending is much easier than receiving.
+Sending is much easier than receiving. Still you need to practice it to get your fingers to make the right movements. You need to decide on a key you want to use.
 - Procedures:
-Being a CW operator includes not only sending and receiving the letters and words in CW but many procedural things such as abbreviations or QSO formats.
+Being a CW operator includes not only sending and receiving the letters and words in CW but other things such as abbreviations, Q-Codes and different QSO formats.
 
 I will try to describe the different points in the following chapters.
 
@@ -117,7 +117,16 @@ Sending is much easier than receiving.
 ### The key to use
 There are several different typs of key for sending morse code. As you can imagine there are many and divergent opinions on which one is best.
 
-I decided on starting with an automatic keyer with a paddle. With this setup, you do not have to get the timings of Dits and Dahs right. The keyer does that for you.
+The most common keys are:
+- Iambic Paddle: is a key the automatically generates dits and dahs with two paddles. The timing between dits and dahs is done by the keyer and is therefore always correct. It can be used for fast keying.
+- Straight key: The classical key. It makes a sound when you press it down. All the timing has to be done by hand. It seems to have an upper limit at somewhere around 20wpm.
+- Bug: A mechanical key that genarates a stream of dits, the dahs are done by the operator.
+
+You can find some more information on the different types [here](https://morsecode.world/keys.html).
+
+I decided on starting with an automatic keyer with a paddle. With this option, you can concentrate on the letters and create better morse code from the start.
+
+For learning how to use the iambic keyer, read this [document](https://morse-rss-news.sourceforge.net/keyerdoc/K7QO_Iambic_Paddle.pdf).
 
 ### Practice sending
 When you have a certain proficiency receiving CW it will be easy to know how to send a character. Getting your fingers to do so can be a little trickier.
@@ -253,11 +262,6 @@ The full list is:
 |7	| B |
 |8	| D |
 |9	| N |
-
-### QSO-Formats
-- the letters
-- abbreviations and q-codes
-- QSO formats
 
 ### A "regular" QSO
 A normal QSO follows a somewhat fixed structure. This structure greatly helps you understanding the incoming CW as you know what to anticipate.
